@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Soumil Kumar"
+	],
+	"copyright": "Copyright © 2025, Soumil Kumar",
+	"description": "Simple pubsub implementation in D",
+	"license": "Unlicense",
+	"name": "pubsub"
+}
